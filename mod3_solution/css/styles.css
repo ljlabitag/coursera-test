@@ -1,0 +1,59 @@
+body {
+	font-size: 16px;
+	background-color: #c0ded9;
+	color: #eaece5;
+	font-family: Helvetica, sans-serif;
+}
+
+/*** HEADER ***/
+#header-nav {
+	background-color: #3b3a30;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-brand {
+  padding-top: 25px;
+}
+.navbar-brand h1 {
+	font-family: Helvetica, serif;
+	color: #eaece5;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: 0.75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+#nav-list {
+	margin-top: 10px;
+	background-color: #563f46;
+}
+#nav-list a {
+	color: #eaece5;
+	text-align: center;
+}
+#nav-list a:hover {
+	background: #b2c2bf;
+	color: #3b3a30;
+}
+
+/*** MAIN CONTENT ***/
+#page-header {
+	color: #3b3a30;
+	font-weight: bold;
+	font-family: Helvetica, serif;
+}
+#menu-categories {
+	width: 100%;
+	background-color: #eaece5;
+	color: #3b3a30;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+#menu-categories h3 {
+	font-weight: bold;
+	font-family: Helvetica, serif;
+}
